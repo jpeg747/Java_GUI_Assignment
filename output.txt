@@ -1,0 +1,14 @@
+   |  Product  | Code |      Description      | Price | Quantity | Subtotal |
+             TV STY156            42" LCD HDTV $265.75          1  $  265.75
+        SD Card TYQ458            32GB Storage $ 35.73          2  $   71.46
+         Camera HYQ391            Nikon Camera $123.89          1  $  123.89
+      USB Drive UQT418             4GB Storage $ 15.55          1  $   15.55
+       6ft HDMI HAU512                         $  5.76          1  $    5.76
+            USB HAY213             5GB Storage $ 12.50         11  $  123.75 (%10.0 DISCOUNT)
+           null   null                    null $  0.00          0  $    0.00
+           null   null                    null $  0.00          0  $    0.00
+           null   null                    null $  0.00          0  $    0.00
+           null   null                    null $  0.00          0  $    0.00
+Total
+-------
+$610.40
